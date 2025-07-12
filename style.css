@@ -59,3 +59,57 @@ nav {
     display: block;
     margin:50px auto;
 }
+
+
+
+
+
+
+
+/* ..............action section............  */
+.action-section{
+    max-width: 1140px;
+    height: 328px;
+    display: flex;
+    justify-content: space-between;
+    margin: 200px auto;
+}
+
+.act-div{
+    max-width: 517px;
+    height: 203px;
+    margin: 0px 0px;
+}
+
+.act-title{
+    font-weight: bold;
+    font-size: 42px;
+    width: 517px;
+    height: 49px;
+    margin: 20px 0;
+
+}
+
+.act-text{
+    font-size: 24px;
+    margin: 30px 0px;
+   
+
+}
+
+.nav-button{
+    width: 229px;
+    height: 48px;
+    padding: 12px 36px;
+    border-radius: 10px;
+}
+
+.act-img{
+    max-width: 403px;
+    height: 328px;
+    border-radius: 48px;
+
+}
+
+
+
